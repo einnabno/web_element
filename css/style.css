@@ -4,8 +4,8 @@ body {
 }
 
 .text {
-	margin-top: 190px;
-	padding-bottom:20px;
+	margin-top: 1000px;
+	padding-bottom:200px;
 	margin-left: 47%;
 	margin-right: 20%;
 	font-family: Arial;
@@ -23,7 +23,7 @@ body {
 	z-index: 10;
     position: absolute;
     content: '';
-    top: 100px;
+    top: 800px;
 	margin-left: 40%;
 	margin-right: 50%;
     height: 20%;
